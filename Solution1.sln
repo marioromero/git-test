@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{2B234CB8-7A0C-423B-9A3D-66D288BE7E5C}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		modelo.cs = modelo.cs
 		test.cs = test.cs
 	EndProjectSection
 EndProject
